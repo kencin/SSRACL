@@ -1224,7 +1224,7 @@
 (^|\.)\w*duolingo\w*\.\w*$
 (^|\.)\w*jdpay\w*\.\w*$
 (^|\.)\w*moke\w*\.\w*$
-(^|\.)\w*steam\w*\.\w*$
+
 (^|\.)\w*xiami\w*\.\w*$
 (^|\.)\w*xiaomi\w*\.\w*$
 
@@ -6917,6 +6917,7 @@
 (^|\.)\w*sci-hub\w*\.\w*$
 (^|\.)\w*avtb\w*\.\w*$
 (^|\.)\w*abema\w*\.\w*$
+(^|\.)\w*steam\w*\.\w*$
 
 # Top blocked sites
 (^|\.)4sqi\.net$
