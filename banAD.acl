@@ -6918,6 +6918,7 @@
 (^|\.)\w*avtb\w*\.\w*$
 (^|\.)\w*abema\w*\.\w*$
 (^|\.)\w*steam\w*\.\w*$
+(^|\.)\w*netflix\w*\.\w*$
 
 # Top blocked sites
 (^|\.)4sqi\.net$
